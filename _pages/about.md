@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: 
 Algorithm and Data Analysis Lab
-Theoretical Computer Science, KTH Royal Institute of Technology
 
 profile:
   align: right
