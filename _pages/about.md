@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-<p>Algorithm and Data Analysis Lab</p>
-<p>Theoretical Computer Science, KTH Royal Institute of Technology</p>
+Algorithm and Data Analysis Lab
+Theoretical Computer Science, KTH Royal Institute of Technology
 
 profile:
   align: right
