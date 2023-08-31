@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Welcome to ADA Lab! 
+subtitle: Theoretical Computer Science, KTH Royal Institute of Technology 
 
 profile:
   align: right
@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Our Lab's description. 
+Algorithm and Data Analysis Lab.
