@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Sijing Tu
-description: PhD student
+description: 4th-year PhD student
 img: /assets/img/people/sijing.jpeg
 importance: 1
 category: current
-redirect: https://research.google/people/AmrAhmed/
+redirect: https://www.kth.se/profile/sijing
 ---
